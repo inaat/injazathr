@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284418696021",
+    "project_id": "injazathr-96008",
+    "storage_bucket": "injazathr-96008.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284418696021:android:0452706604f853d637c5dc",
+        "android_client_info": {
+          "package_name": "com.injazathr.injazathr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB37UpyBjsnEntCOFao_Lo4-1YW7HE-oLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
